@@ -1,4 +1,4 @@
-# college-work
+# Programming and Scripting
 
 This repository contains a number of weekly tasks completed over the past three months.
 
